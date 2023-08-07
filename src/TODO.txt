@@ -1,0 +1,4 @@
+-Use assets for save descripion images inside the proyect
+-Add new TexEdit city
+-Add new TexEdit country
+-Animations in (start image)
